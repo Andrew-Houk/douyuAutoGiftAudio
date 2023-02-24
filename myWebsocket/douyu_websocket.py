@@ -10,7 +10,7 @@ from aiowebsocket.converses import Converse
 import settings
 import json
 
-from commons.log_utils import logger
+from myLogger.log import logger
 
 
 class DouyuWebSocket:
